@@ -9,6 +9,10 @@ body{
 /* Desktop Layout Starts */
 /* Header Section starts */
 
+@-ms-viewport{
+    width: device-width;
+  }
+
 .header{
     position: absolute;
     width: 100%;

@@ -12,6 +12,10 @@ body{
 
 /* Hero section starts */
 
+@-ms-viewport{
+    width: device-width;
+  }
+
 .hero{
     position: absolute;
     width: 100%;
