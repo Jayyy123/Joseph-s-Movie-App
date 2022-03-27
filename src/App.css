@@ -1,10 +1,10 @@
 *{
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 body{
     width: 100%;
-    overflow-x: hidden;
 }
 /* ---------------------------------- */
 /* Desktop Layout Starts */
@@ -88,7 +88,6 @@ body{
     flex: none;
     order: 0;
     flex-grow: 0;
-    margin: 4px 0px;
 }
 .search-box{
     position: static;
@@ -106,7 +105,7 @@ body{
     flex: none;
     order: 1;
     flex-grow: 0;
-    margin: 4px 0px;
+
 }
 
 /* Search section ends */
