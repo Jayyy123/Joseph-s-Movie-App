@@ -1,9 +1,9 @@
 *{
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
 }
 body{
+    overflow-x: hidden;
     width: 100%;
 }
 /* ---------------------------------- */
@@ -287,7 +287,7 @@ body{
 
     .hero-text{
         /* left: calc((width - 460px)/2); */
-        left: 0.27%;
+        left: 0.1%;
         text-align: center;
         line-height: 93.74px;
     }
